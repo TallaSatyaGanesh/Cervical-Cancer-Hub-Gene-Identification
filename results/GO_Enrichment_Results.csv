@@ -1,0 +1,6 @@
+source,native,name,p_value,intersection_size
+GO:MF,GO:0000979,RNA polymerase II core promoter sequence-specific DNA binding,0.00737310651577694,2
+GO:BP,GO:0043568,positive regulation of insulin-like growth factor receptor signaling pathway,0.014153449916146494,2
+GO:MF,GO:0001046,core promoter sequence-specific DNA binding,0.03154361953656392,2
+GO:BP,GO:0043567,regulation of insulin-like growth factor receptor signaling pathway,0.04580591103296016,2
+GO:BP,GO:0051450,myoblast proliferation,0.04580591103296016,2
